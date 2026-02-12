@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | DevOps Enthusiast | Python Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mahdiabedian&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
