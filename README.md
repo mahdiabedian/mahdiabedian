@@ -73,8 +73,8 @@ Scheduled URL health-check automation with logging and reporting.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiabedian&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiabedian&layout=compact" height="150"/>
 </p>
 
 ---
@@ -83,8 +83,8 @@ Scheduled URL health-check automation with logging and reporting.
 
 <p>
   <a href="https://abedian.info/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:m.abedian.10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahdiabedian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abedianjelodar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
