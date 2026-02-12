@@ -73,8 +73,8 @@ Scheduled URL health-check automation with logging and reporting.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiabedian&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiabedian&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahdiabedian&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdiabedian&layout=compact" height="150"/>
 </p>
 
 ---
