@@ -73,8 +73,8 @@ Scheduled URL health-check automation with logging and reporting.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiabedian" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiabedian&layout=compact" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=mahdiabedian&theme=dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdiabedian&theme=2077" height="150"/>
 </p>
 
 ---
